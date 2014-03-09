@@ -1,0 +1,6 @@
+[submodule "serve-repositories/af-2.1"]
+	path = serve-repositories/af-2.1
+	url = https://github.com/01org/appframework.git
+[submodule "serve-repositories/af"]
+	path = serve-repositories/af
+	url = https://github.com/01org/appframework.git
