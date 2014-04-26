@@ -4,3 +4,6 @@
 [submodule "serve-repositories/af"]
 	path = serve-repositories/af
 	url = https://github.com/01org/appframework.git
+[submodule "serve-repositories/bitmask.js-0-3-0"]
+	path = serve-repositories/bitmask.js-0-3-0
+	url = https://github.com/young-steveo/bitmask.js.git
